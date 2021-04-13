@@ -8,7 +8,7 @@
   + 코드는 여기에, 이론 정리는 [블로그](https://junyoung-developer.tistory.com/category/ANDROID/%5B%EA%B3%B5%EB%B6%80%5D%20Kotlin%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)에!
 
 ## :bookmark_tabs: 진도
-|no.|Chapter|Day|
+|no.|Chapter|Check|
 |---|-------|---|
 |1장|코틀린 시작하기|:white_check_mark:|
 |2장|변수와 자료형, 연산자|:white_check_mark:|
