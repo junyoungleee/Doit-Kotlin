@@ -18,6 +18,11 @@ class Parrot : Bird {
         this.language = language
     }
     fun speak() = println("Speak! $language")
+    override fun sing(vol: Int) {
+        super.sing(vol)
+        println("I'm a parrot!")
+        speak()
+    }
 }
 
 fun main() {
