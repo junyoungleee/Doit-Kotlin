@@ -15,9 +15,9 @@
 |3장|함수와 함수형 프로그래밍|:white_check_mark:|
 |4장|프로그램의 흐름 제어|:white_check_mark:|
 |5장|클래스와 객체|:white_check_mark:|
-|6장|프로퍼티와 초기화|:raising_hand:|
-|7장|다양한 클래스와 인터페이스|:raising_hand:|
-|8장|제네릭과 배열|-|
+|6장|프로퍼티와 초기화|:white_check_mark:|
+|7장|다양한 클래스와 인터페이스|:white_check_mark:|
+|8장|제네릭과 배열|:raising_hand:|
 |9장|컬렉션|-|
 |10장|표준 함수와 파일 입출력|-|
 |11장|코루틴과 동시성 프로그래밍|-|
