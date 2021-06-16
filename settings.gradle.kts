@@ -1,2 +1,3 @@
-rootProject.name = "doitKotlin"
+
+rootProject.name = "KotlinPractice"
 
